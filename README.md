@@ -44,7 +44,7 @@ body {
 > If you fail to plan , you are planing to fail.
 
 ---
-![next1code](https://next1code.ir/wp-content/uploads/2023/11/redux-course-cover-1.jpg)
+[![next1code](https://next1code.ir/wp-content/uploads/2023/11/redux-course-cover-1.jpg "next1code")](next1code.ir)
 
 ---
 | FirstName | LastName | age |
